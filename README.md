@@ -1,16 +1,18 @@
 #👋 Hi, I’m @SwapnashreeTripathy
+<!--<h1 align="center">Hi 👋, I'm Swapnashree Tripathy</h1>-->
 
-Welcome to my GitHub profile! I'm a Cloud DevOps engineer dedicated to optimizing development processes for efficient, scalable, and reliable software delivery. With expertise in various DevOps tools and technologies, I focus on streamlining workflows and enhancing system performance. Let's connect and build better software together!
 
+Welcome to my GitHub profile! 
+<!-- With expertise in various DevOps tools and technologies, I focus on streamlining workflows and enhancing system performance. Let's connect and build better software together! --->
 
-## About Me
-
-- 💻 I'm currently working with AWS Cloud, Kubernetes, Docker, Ansible, AWS, Jenkins, Terraform, CI/CD, Git & GitHub, Linux, Python.
+- 💻 I'm a Cloud DevOps engineer dedicated to optimizing development processes for efficient, scalable, and reliable software delivery. 
+- :skier: I'm currently working with AWS Cloud, Kubernetes, Docker, Ansible, AWS, Jenkins, Terraform, CI/CD, Git & GitHub, Linux, Python.
 - 🌱 I’m pursuing certification with Hero Vired to further enhance my skills and expertise in Cloud & DevOps field.
 - 🔭 I’m working on various personal and open-source projects.
 - 🤝 I’m open to collaborations and contributions.
 
-<!--  
+<!-- 
+## About Me
 - 👀 I’m interested in Cloud and DevOps.
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
@@ -20,9 +22,10 @@ Welcome to my GitHub profile! I'm a Cloud DevOps engineer dedicated to optimizin
 
 --->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSwapnashreeTripathy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## 💻 My Skill Set :  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnashreetripathy&label=Profile%20views&color=0e75b6&style=flat" alt="swapnashreetripathy" /> </p>
+
+## Technical Skills :  
 <table><tr><td valign="top" width="60%">
 
 
@@ -54,9 +57,9 @@ Welcome to my GitHub profile! I'm a Cloud DevOps engineer dedicated to optimizin
 
 </td></tr></table>
 
-## Get in Touch
+<!--## Get in Touch --->
 
-Let's connect:
+## Let's connect:
 
 - 📧 Email: swapnashreet95@gmail.com
 - 💬 LinkedIn: [Swapnashree Tripathy](https://www.linkedin.com/in/swapnashreetripathy)
