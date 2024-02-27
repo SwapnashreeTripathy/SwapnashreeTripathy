@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! 
 <!-- With expertise in various DevOps tools and technologies, I focus on streamlining workflows and enhancing system performance. Let's connect and build better software together! --->
 
-- 💻 I'm a Cloud DevOps engineer dedicated to optimizing development processes for efficient, scalable, and reliable software delivery. 
+- 💻 I'm a Cloud DevOps engineer dedicated to optimizing development processes for efficient, scalable, and reliable software  delivery. 
 - :skier: I'm currently working with AWS Cloud, Kubernetes, Docker, Ansible, AWS, Jenkins, Terraform, CI/CD, Git & GitHub, Linux, Python.
 - 🌱 I’m pursuing certification with Hero Vired to further enhance my skills and expertise in Cloud & DevOps field.
 - 🔭 I’m working on various personal and open-source projects.
