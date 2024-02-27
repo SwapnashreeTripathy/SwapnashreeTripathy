@@ -64,7 +64,7 @@ Welcome to my GitHub profile!
 - 📧 Email: swapnashreet95@gmail.com
 - 💬 LinkedIn: [Swapnashree Tripathy](https://www.linkedin.com/in/swapnashreetripathy)
 
-## Thank You
+<!-- ## Thank You --->
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories, provide feedback, or reach out. Let's build amazing things together! 🚀
 
