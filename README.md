@@ -1,4 +1,4 @@
-#👋 Hi, I’m @SwapnashreeTripathy
+# 👋 Hi, I’m SwapnashreeTripathy
 <!--<h1 align="center">Hi 👋, I'm Swapnashree Tripathy</h1>-->
 
 
